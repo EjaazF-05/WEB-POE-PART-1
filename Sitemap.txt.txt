@@ -1,8 +1,0 @@
-Sitemap
-                HOME
-                  │
-   ┌──────────────┼──────────────┐
-   │              │              │
-About Us      Services      Enquiry
-                  │
-               Contact
